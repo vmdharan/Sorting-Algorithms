@@ -5,7 +5,7 @@ class InsertionSort:
     def sort(A):
         a_len = len(A)
 
-        # Iterater over the array
+        # Iterate over the array
         for i in range(1, a_len):
             v = A[i]
             j = i - 1
