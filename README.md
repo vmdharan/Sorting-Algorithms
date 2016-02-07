@@ -7,3 +7,5 @@ Currently implemented:
 - Selection sort
 - Merge sort
 - Quick sort
+- Comparison Count sort
+- 
