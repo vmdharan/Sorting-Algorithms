@@ -8,4 +8,3 @@ Currently implemented:
 - Merge sort
 - Quick sort
 - Comparison Count sort
-- 
