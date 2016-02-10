@@ -16,5 +16,9 @@ public class SortMain
         BubbleSort bs1 = new BubbleSort(testArray);
         System.out.println("Sorting using BubbleSort:");
         System.out.println(Arrays.toString(bs1.sort()));
+        
+        InsertionSort is1 = new InsertionSort(testArray);
+        System.out.println("Sorting using Insertion sort:");
+        System.out.println(Arrays.toString(is1.sort()));
     }
 }
