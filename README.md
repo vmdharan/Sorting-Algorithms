@@ -16,3 +16,6 @@ Java implementations:
 PHP implementations:
 - Bubble sort
 - Insertion sort
+
+Javascript implementations:
+- Bubble sort
