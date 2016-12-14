@@ -19,3 +19,4 @@ PHP implementations:
 
 Javascript implementations:
 - Bubble sort
+- Insertion sort
