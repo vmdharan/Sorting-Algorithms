@@ -17,7 +17,7 @@ public class BubbleSort
         // values if they are out of order.
         for(i=0; i<A.length-1; i++)
         {
-            for(j=0; j<A.length-1; j++)
+            for(j=0; j<A.length-1-i; j++)
             {
                 if(A[j+1] < A[j])
                 {

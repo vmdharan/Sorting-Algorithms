@@ -20,5 +20,9 @@ public class SortMain
         InsertionSort is1 = new InsertionSort(testArray);
         System.out.println("Sorting using Insertion sort:");
         System.out.println(Arrays.toString(is1.sort()));
+
+        SelectionSort ss1 = new SelectionSort(testArray);
+        System.out.println("Sorting using Selection sort:");
+        System.out.println(Arrays.toString(ss1.sort()));
     }
 }
