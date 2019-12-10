@@ -14,7 +14,7 @@ public class SelectionSort
         int a_len = A.length;
 
         // Iterate over the array
-        for(int i=0; i<a_len; i++)
+        for(int i=0; i<a_len-1; i++)
         {
             // Set the current minimum
             int curr_min = i;

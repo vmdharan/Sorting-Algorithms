@@ -24,5 +24,9 @@ public class SortMain
         SelectionSort ss1 = new SelectionSort(testArray);
         System.out.println("Sorting using Selection sort:");
         System.out.println(Arrays.toString(ss1.sort()));
+
+        ComparisonCountSort ccs1 = new ComparisonCountSort(testArray);
+        System.out.println("Sorting using Comparison Count sort:");
+        System.out.println(Arrays.toString(ccs1.sort()));
     }
 }
