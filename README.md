@@ -12,6 +12,8 @@ Currently implemented using Python:
 Java implementations:
 - Bubble sort
 - Insertion sort
+- Selection sort
+- Comparison Count sort
 
 PHP implementations:
 - Bubble sort
