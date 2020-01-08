@@ -28,5 +28,9 @@ public class SortMain
         ComparisonCountSort ccs1 = new ComparisonCountSort(testArray);
         System.out.println("Sorting using Comparison Count sort:");
         System.out.println(Arrays.toString(ccs1.sort()));
+
+        SelectionSort ms1 = new MergeSort(testArray);
+        System.out.println("Sorting using Merge sort:");
+        System.out.println(Arrays.toString(ms1.sort()));
     }
 }
